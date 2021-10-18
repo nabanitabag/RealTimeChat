@@ -1,5 +1,5 @@
 {
-  "name": "wp5-starter-react",
+  "name": "client",
   "version": "1.0.1",
   "scripts": {
     "build": "webpack --mode production",
@@ -31,8 +31,11 @@
     "webpack-dev-server": "3.11.2"
   },
   "dependencies": {
+    "@apollo/client": "^3.4.16",
     "@babel/runtime": "^7.13.10",
+    "graphql": "^15.6.1",
     "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react-dom": "^16.6.3",
+    "subscriptions-transport-ws": "^0.9.19"
   }
 }
