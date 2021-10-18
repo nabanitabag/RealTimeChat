@@ -4889,7 +4889,7 @@
     "source-list-map" "^2.0.1"
     "source-map" "^0.6.1"
 
-"webpack@^4.0.0 || ^5.0.0", "webpack@^4.27.0 || ^5.0.0", "webpack@^5.1.0", "webpack@^5.20.0", "webpack@^5.31.2", "webpack@>=2", "webpack@4.x.x || 5.x.x":
+"webpack@^4.0.0 || ^5.0.0", "webpack@^4.27.0 || ^5.0.0", "webpack@^5.1.0", "webpack@^5.20.0", "webpack@>=2", "webpack@4.x.x || 5.x.x", "webpack@5.31.2":
   "integrity" "sha512-0bCQe4ybo7T5Z0SC5axnIAH+1WuIdV4FwLYkaAlLtvfBhIx8bPS48WHTfiRZS1VM+pSiYt7e/rgLs3gLrH82lQ=="
   "resolved" "https://registry.npmjs.org/webpack/-/webpack-5.31.2.tgz"
   "version" "5.31.2"
@@ -4970,7 +4970,12 @@
   "resolved" "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz"
   "version" "1.0.2"
 
-"ws@^5.2.0 || ^6.0.0 || ^7.0.0", "ws@^6.2.1":
+"ws@^5.2.0 || ^6.0.0 || ^7.0.0":
+  "integrity" "sha512-BAkMFcAzl8as1G/hArkxOxq3G7pjUqQ3gzYbLL0/5zNkph70e+lCoxBGnm6AW1+/aiNeV4fnKqZ8m4GZewmH2w=="
+  "resolved" "https://registry.npmjs.org/ws/-/ws-7.5.5.tgz"
+  "version" "7.5.5"
+
+"ws@^6.2.1":
   "integrity" "sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw=="
   "resolved" "https://registry.npmjs.org/ws/-/ws-6.2.2.tgz"
   "version" "6.2.2"
